@@ -13,6 +13,7 @@ import static org.junit.Assert.assertEquals;
  */
 public class IssueHistoryTests {
 
+    //first test cases
     @Test
     public void NewIssueHistoryShouldBeEmpty()  {
         IssueHistory issueHistory = new IssueHistory();
